@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.4.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: 40438483+PhonsoVanCode@users.noreply.github.com
+author_name: PhonsoVanCode
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: mlcn_extension
+project_short_description: A JupyterLab extension for Multi-Language-Computational-Notebooks
+python_name: mlcn_extension
+repository: https://github.com/PhonsoVanCode/mlcn_extension
+test: true
+
